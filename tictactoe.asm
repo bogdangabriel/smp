@@ -1,4 +1,4 @@
-
+; https://github.com/bogdangabriel/smp
 
 data segment       
     new_line db 13, 10, "$"
